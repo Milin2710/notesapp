@@ -53,6 +53,6 @@ POSTGRES_HOST=localhost
 POSTGRES_PORT=5432
 POSTGRES_USER=your_user
 POSTGRES_PASSWORD=your_password
-POSTGRES_DB=notes_db
+POSTGRES_DB=notesapp
 
-MONGODB_URI=mongodb://localhost:27017/notes_metadata
+MONGODB_URI=mongodb://localhost:27017/notesapp
